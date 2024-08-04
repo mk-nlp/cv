@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2024",
       description:
-        "Leading the development of the Film.io platform. Technologies: React, TypeScript, Node.js",
+        "As a Sworn Court Translator I helped local law enforcement officers, and judicial authorities in Eskişehir",
     },
     {
       company: "Çağfen Eğitim Kurumları",
@@ -86,7 +86,18 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2023",
       description:
-        "As a Sworn Court Translator I helped local law enforcement officers, and judicial authorities in Eskişehir.",
+        "Teached English as a second language to high school and middle school learners.",
+    },
+    {
+      company: "Ollang Inc.",
+      link: "",
+      badges: [],
+      title: "Translator, Transcriber",
+      logo: ParabolLogo,
+      start: "2022",
+      end: "2023",
+      description:
+        "Translated documents for a Fortune 500 pharmaceutical company. Transcribed videos for a government media network.",
     },
   ],
   skills: [
